@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-header.svg" alt="Furqan Aya — Software Developer" width="100%" />
+<img src="./assets/profile-header-v2.svg" alt="Furqan Aya — Software Developer" width="100%" />
 
 [Website](https://arb.one) · [Telegram](https://t.me/Arb_skin) · [GitHub](https://github.com/FurqanAya)
 
