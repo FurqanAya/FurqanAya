@@ -38,7 +38,7 @@ I focus on building software that is useful, maintainable, scalable, and designe
 
 </div>
 
-> SQL · REST APIs · Multi-Tenant SaaS · AI Agents · Agent Orchestration · Workflow Automation · Local AI · System Integration
+> SQL · REST APIs · Multi-Tenant SaaS · AI Agents · Agent Orchestration · Workflow Automation · Telegram Bot Development · Local AI · System Integration
 
 ## What I Build
 
@@ -47,6 +47,7 @@ I focus on building software that is useful, maintainable, scalable, and designe
 | Web Development | Custom websites, web applications and reusable web solutions |
 | WordPress | Themes, custom implementations and WordPress-based solutions |
 | Scripts & Automation | Utility scripts, workflow automation and system integrations |
+| Telegram Bots | Bot development, automation, integrations, channel workflows and backend services |
 | SaaS | Multi-tenant platforms, product architecture and backend systems |
 | Backend & APIs | Services, REST APIs, integrations and data workflows |
 | AI | AI-powered applications, agents, orchestration and local AI workflows |
