@@ -71,6 +71,14 @@ Linux Systems              Developer Tooling
 - Treat security, data integrity, and maintainability as design requirements.
 - Use the right language and tool for the system being built.
 
+## Private Work
+
+Most of my professional work is intentionally kept private.
+
+Many of the systems, platforms, scripts, and solutions I build are developed for clients or private products and are not published publicly on GitHub. Protecting client privacy, proprietary code, business logic, infrastructure details, and confidential project information takes priority over maintaining a large public repository portfolio.
+
+Public repositories represent only a small part of my development work.
+
 ## Arb One
 
 I build and develop software under **Arb One**, focused on scalable digital platforms, automation, AI-assisted systems, and long-lived software products.
