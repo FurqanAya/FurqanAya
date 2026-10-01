@@ -1,12 +1,8 @@
 <div align="center">
 
-# Furqan Aya
+<img src="./assets/profile-header.svg" alt="Furqan Aya — Software Developer" width="100%" />
 
-### Software Developer
-
-**Scalable Platforms · SaaS Systems · AI Agents · Automation**
-
-[arb.one](https://arb.one)
+[Website](https://arb.one) · [Telegram](https://t.me/Arb_skin) · [GitHub](https://github.com/FurqanAya)
 
 </div>
 
