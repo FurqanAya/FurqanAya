@@ -2,6 +2,8 @@
 
 <img src="./assets/profile-header-v2.svg" alt="Furqan Aya — Software Developer" width="100%" />
 
+[English](./README.md) · [Deutsch](./README.de.md) · [العربية](./README.ar.md)
+
 [Website](https://arb.one) · [Telegram](https://t.me/Arb_skin) · [GitHub](https://github.com/FurqanAya)
 
 </div>
