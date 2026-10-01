@@ -14,11 +14,43 @@
 
 ## About
 
-I am a software developer focused on designing and building reliable, scalable software systems.
+I am a software developer with experience across multiple programming languages, platforms, and generations of web development.
 
-My work spans multiple programming languages and technology stacks, with a strong focus on web platforms, SaaS architecture, automation, AI-powered systems, backend services, APIs, infrastructure, and developer tooling.
+My work ranges from **WordPress themes, custom websites and practical scripts** to **modern SaaS platforms, backend services, APIs, automation systems and AI-powered software**.
 
-I value clean architecture, maintainable code, deliberate system design, and technology chosen for the problem rather than the trend.
+I focus on building software that is useful, maintainable, scalable, and designed around the actual problem rather than a particular technology.
+
+## Technology Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,go,php,bash&perline=6" alt="TypeScript, JavaScript, Python, Go, PHP and Bash" />
+
+### Web & Application Development
+
+<img src="https://skillicons.dev/icons?i=wordpress,nextjs,react,nodejs,html,css&perline=6" alt="WordPress, Next.js, React, Node.js, HTML and CSS" />
+
+### Data & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,prisma,docker,linux,git&perline=6" alt="PostgreSQL, SQLite, Prisma, Docker, Linux and Git" />
+
+</div>
+
+> SQL · REST APIs · Multi-Tenant SaaS · AI Agents · Agent Orchestration · Workflow Automation · Local AI · System Integration
+
+## What I Build
+
+| Area | Experience |
+| --- | --- |
+| Web Development | Custom websites, web applications and reusable web solutions |
+| WordPress | Themes, custom implementations and WordPress-based solutions |
+| Scripts & Automation | Utility scripts, workflow automation and system integrations |
+| SaaS | Multi-tenant platforms, product architecture and backend systems |
+| Backend & APIs | Services, REST APIs, integrations and data workflows |
+| AI | AI-powered applications, agents, orchestration and local AI workflows |
+| Infrastructure | Linux environments, Docker-based services and deployment workflows |
 
 ## Focus
 
@@ -29,17 +61,6 @@ Backend Services           APIs & Integrations
 Databases                  Containers & Infrastructure
 Linux Systems              Developer Tooling
 ```
-
-## Technology
-
-| Area | Technologies |
-| --- | --- |
-| Languages | TypeScript, JavaScript, Python, Go, SQL, Shell |
-| Web | Next.js, React, Node.js |
-| Data | PostgreSQL, Prisma, SQLite |
-| Infrastructure | Docker, Linux, Git |
-| AI & Automation | AI Agents, Agent Orchestration, Workflow Automation, Local AI |
-| Architecture | Multi-Tenant SaaS, REST APIs, Distributed Services, System Integration |
 
 ## Principles
 
