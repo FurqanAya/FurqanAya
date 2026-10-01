@@ -84,6 +84,6 @@ I build and develop software under **Arb One**, focused on scalable digital plat
 **Furqan Aya**  
 Software Developer · Arb One
 
-[Website](https://arb.one) · [GitHub](https://github.com/FurqanAya)
+[Website](https://arb.one) · [Telegram](https://t.me/Arb_skin) · [GitHub](https://github.com/FurqanAya)
 
 </div>
