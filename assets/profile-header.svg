@@ -14,7 +14,7 @@
 <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
 <circle cx="1020" cy="80" r="170" fill="#0D6E9C" fill-opacity=".13" filter="url(#glow)"/>
 <circle cx="110" cy="330" r="150" fill="#D5A84C" fill-opacity=".09" filter="url(#glow)"/>
-<image href="./logo-arb.png" x="940" y="36" width="200" height="200" preserveAspectRatio="xMidYMid meet"/>
+<image href="./logo.svg" x="925" y="22" width="230" height="230" preserveAspectRatio="xMidYMid meet"/>
 <text x="1040" y="252" text-anchor="middle" fill="#D8DEE8" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="6">ARB ONE</text>
 <rect x="88" y="66" width="5" height="150" rx="2.5" fill="url(#gold)"/>
 <text x="120" y="132" fill="#F5F7FA" font-family="Arial,Helvetica,sans-serif" font-size="62" font-weight="700">Furqan</text>
