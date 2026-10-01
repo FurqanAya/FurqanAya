@@ -26,15 +26,19 @@ I focus on building software that is useful, maintainable, scalable, and designe
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,go,php,bash&perline=6" alt="TypeScript, JavaScript, Python, Go, PHP and Bash" />
+<img src="https://skillicons.dev/icons?i=python,php,java,go,js,ts,dart,bash&perline=8" alt="Python, PHP, Java, Go, JavaScript, TypeScript, Dart and Bash" />
 
-### Web & Application Development
+### Web & Frameworks
 
-<img src="https://skillicons.dev/icons?i=wordpress,nextjs,react,nodejs,html,css&perline=6" alt="WordPress, Next.js, React, Node.js, HTML and CSS" />
+<img src="https://skillicons.dev/icons?i=html,css,laravel,wordpress,nextjs,react,nodejs,deno&perline=8" alt="HTML5, CSS3, Laravel, WordPress, Next.js, React, Node.js and Deno" />
 
-### Data & Infrastructure
+### Databases & Data
 
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,prisma,docker,linux,git&perline=6" alt="PostgreSQL, SQLite, Prisma, Docker, Linux and Git" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,prisma&perline=5" alt="PostgreSQL, MySQL, MongoDB, SQLite and Prisma" />
+
+### Infrastructure & Tooling
+
+<img src="https://skillicons.dev/icons?i=docker,linux,git&perline=3" alt="Docker, Linux and Git" />
 
 </div>
 
